@@ -24,3 +24,7 @@ hs_err_pid*
 
 #target folder
 target/
+
+.classpath
+.project
+.settings/
